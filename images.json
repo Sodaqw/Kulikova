@@ -1,0 +1,18 @@
+[
+    {"id": 1, "title": "Закат", "category": "Природа", "rating": 4.5, "url": "https://a.d-cd.net/P0NVwfFMoAcX9cCjTCAOyOzusJM-960.jpg"},
+    {"id": 2, "title": "Паста", "category": "Еда", "rating": 4.8, "url": "https://avatars.mds.yandex.net/i?id=a3e14feabe0a22afb56b0883305b12e5_l-10752166-images-thumbs&n=13"},
+    {"id": 3, "title": "Мост", "category": "Города", "rating": 4.2, "url": "https://avatars.mds.yandex.net/i?id=b967d5331869dd70483f85406d5d298f_l-5323298-images-thumbs&n=13"},
+    {"id": 4, "title": "Змея", "category": "Животные", "rating": 3.0, "url": "https://s0.rbk.ru/v6_top_pics/media/img/9/21/346977083953219.webp"},
+    {"id": 5, "title": "Лес", "category": "Природа", "rating": 4.8, "url": "https://i.pinimg.com/originals/5e/63/7a/5e637ac300c7c4de88e2cebc22b4de16.png"},
+    {"id": 6, "title": "Хомяк", "category": "Животные", "rating": 5.0, "url": "https://avatars.mds.yandex.net/get-shedevrum/10713989/65f7f3f7b17d11eea408e6d39d9a42a4/orig"},
+    {"id": 7, "title": "Небоскрёб", "category": "Города", "rating": 4.0, "url": "https://i.pinimg.com/originals/f5/cf/ad/f5cfad1a6eb6d20a1c5ff531435479f5.jpg"},
+    {"id": 8, "title": "Океан", "category": "Природа", "rating": 4.7, "url": "https://storage.yandexcloud.net/storage.yasno.media/nat-geo/images/2023/10/2/5dd0eee5f10e4a48af6ba094b3e1cfc9.max-2500x1500.jpg"},
+    {"id": 9, "title": "Пицца", "category": "Еда", "rating": 4.6, "url": "https://masterpiecer-images.s3.yandex.net/354404417caf11eeab4ada477c0f1ee2:upscaled"},
+    {"id": 10, "title": "Парк", "category": "Города", "rating": 4.1, "url": "https://yandex-images.clstorage.net/heDk56129/9338abgV/R7dpVnUm8CqVWox43RxalXT9YiOWeEnIhKmfqhjY7ICasOwcdwhcg3_kwzD_4WhSW14MQyS1hS4SSEypVLPYNOKjLHKwUpXO5VrdPG24mzW1_DbiQkkd6RTp6jrYbipnndKqbpEPTsGtRTNlP8EZlv9PD6Cw94A-508ey2UB76P2xFuUBWVhDXcqrcxdvuhlZj_V0QdpzUsSK708n6_otK-ziUzy_l3jHMZAFLyBOJOOvLyS5nagX3dvnbvHoCwhN-aIZSeFQY6lC22PX4xqJSU-RnHlOzxIYSuOT7_uuga9YHi-km3MAS70cUadwMuQzv_fUbXH8U7kr72L1AOsASWXCHVX9KGuFBn9nmy-20S0XlXBpxv9yxPaj93-TLtHD9C5vvNufOAutmIW71LYYl8cPXIn1vEOJ-xOe8bhz0Fl1komRhVxLQaqXOwu_ull99yF47QLf6szex3_fX7Ztt_j6z3jHU-RrXaSZp7xKNCfXs8yxDRRPreu_wp1o74BhURZhcZnU97XeD9-Hj44FjZsdhOVqm_7E6tPDvwe--WdgvtsAM1Mog4m4deO0QiirOw-0kRVEA5l7g85FwF_8oTGizcFFaPep_gfHky-OXYk7jXQZ1qdiwOZvz1czKtFPmDo_LJtTiFdJdBmXiFas20PfrOWd3KvZp5c28bSjqOlZ5hWNhZSjkQr3i4NvStUpGw0g5R7XQpR6d2ur82b598xm69Cb8xSLVfhpv0hObLtPQ4BJJcivoRMfbpHAB5zlfebd-RXAn7kue2enQ6a5QacJ8EG-_4aQDs9XJ0MmNfPoGqeUk1tgS3Fsda88umQX8wss_Qm037nrT7bphIOA0Um2TQkd0EMVAndDH5PapSkbLXQNwpcCLJoXKz9D5i3blBL7ADc_lC81GIHbIJ60V8vDMFm5RNet0-tu2bRPFKF5BuXxBVRvEd4nQzdL1gkB83Wkjd7L8gDiHycrz75E"},
+    {"id":11, "title": "Горы", "category": "Природа", "rating": 4.9, "url": "https://avatars.mds.yandex.net/i?id=c42187feb3bcd90c8b620652259b1a26_l-10351804-images-thumbs&n=13"},
+    {"id": 12, "title": "Кролик", "category": "Животные", "rating": 4.0, "url": "https://static.mk.ru/upload/entities/2022/03/28/21/articles/facebookPicture/cc/49/54/71/abc7a79829efaa93ad6626624ca2198c.jpg"},
+    {"id": 13, "title": "Площадь", "category": "Города", "rating": 3.9, "url": "https://avatars.dzeninfra.ru/get-zen_doc/9400491/pub_640b3fd80728812eb4600def_6411b6017a771c2eeee65642/scale_1200"},
+    {"id": 14, "title": "Суши", "category": "Еда", "rating": 4.3, "url": "https://avatars.mds.yandex.net/i?id=d24afa445d36b74f1e3c6561ba5b83fe1a2fbe16-5877064-images-thumbs&n=13"},
+    {"id": 15, "title": "Шиншила", "category": "Животные", "rating": 4.9, "url": "https://www.ferra.ru/imgs/2024/03/05/12/6384506/186f4d296fc5131d612b6d10e0d167bebdb10fee.png"},
+    {"id": 16, "title": "Хорёк", "category": "Животные", "rating": 4.6, "url": "https://vet-centre.ru/wp-content/uploads/2023/02/horyok.jpg"}
+] 

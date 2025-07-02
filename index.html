@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Куликова</title>
+</head>
+<body>
+    <div class="container">
+        <h2> Создание интерактивной галереи изображений с фильтрацией, поиском и AJAX-загрузкой</h2>
+
+        <header class="app-header">
+            <h1><i class="fas fa-camera"></i> Minimal Gallery</h1>
+        </header>
+    
+        <main class="app-container">
+            <section class="controls-panel">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="search" placeholder="Поиск изображений...">
+                </div>
+                
+                <div class="filter-options">
+                    <select id="category">
+                        <option value="">Все категории</option>
+                        <option value="Природа">Природа</option>
+                        <option value="Города">Город</option>
+                        <option value="Еда">Еда</option>
+                        <option value="Животные">Животные</option>
+                    </select>
+                    
+                    <button id="sort-rating">
+                        <i class="fas fa-star"></i>
+                        <span>Сортировать</span>
+                        <i id="sort-direction" class="fas fa-arrow-down"></i>
+                    </button>
+                </div>
+            </section>
+    
+            <section class="stats-bar">
+                <div class="stat-item">
+                    <span>Изображений</span>
+                    <strong id="total-count">0</strong>
+                </div>
+                <div class="stat-item">
+                    <span>Средний рейтинг</span>
+                    <strong id="avg-rating">0.0</strong>
+                </div>
+            </section>
+    
+            <section id="gallery" class="image-grid"></section>
+        </main>
+    
+        <div id="modal" class="image-modal">
+            <div class="modal-content">
+                <button class="close-modal"><i class="fas fa-times"></i></button>
+                <div class="modal-image-container">
+                    <img id="modal-image" src="" alt="">
+                </div>
+                <div class="modal-info">
+                    <h2 id="modal-title"></h2>
+                    <div class="meta-item">
+                        <i class="fas fa-tag"></i>
+                        <span id="modal-category"></span>
+                    </div>
+                    <div class="meta-item">
+                        <i class="fas fa-star"></i>
+                        <span id="modal-rating"></span>
+                    </div>
+                    <a id="modal-url" href="" target="_blank" class="url-link">
+                        <i class="fas fa-external-link-alt"></i>
+                        Открыть оригинал
+                    </a>
+                </div>
+            </div>
+        </div>
+    
+        <script src="script.js"></script>
+</body>
+</html>
